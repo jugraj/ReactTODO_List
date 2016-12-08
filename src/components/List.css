@@ -1,0 +1,31 @@
+.well{
+    margin: 0;
+    text-align: left;
+    
+}
+
+.delete{
+    position: relative;
+    display: inline-block;
+    float: right;
+    pointer-events: cursor;
+    font-size: 20px;
+    margin-top:-20px;
+}
+
+.copy{
+    margin-left: 20px;
+}
+
+.delete:hover{
+    color: #ff6600;
+}
+
+.add-btn{
+    margin-top: 20px;
+}
+
+.checkbox{
+    display: inline-block;
+    float: left;
+}
